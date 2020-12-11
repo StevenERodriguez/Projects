@@ -1,4 +1,5 @@
 # The Box Game
+This is a basic python game which utilizes pygame's library to run.
 Requirements: pygame must be pre-installed in order for this to run
   -Installation instructions for pygame: https://www.pygame.org/wiki/GettingStarted
 
